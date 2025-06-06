@@ -98,7 +98,7 @@ const translations = {
     
     // Contact Benefits
     'contact.badge': 'Liên hệ ngay',
-    'contact.title': 'Sẵn sàng bắt đầu?',
+    'contact.readyTitle': 'Sẵn sàng bắt đầu?',
     'contact.subtitle': 'Hãy để Trinity giúp bạn chuyển đổi số và tối ưu hóa doanh nghiệp của mình',
     'contact.chatTitle': 'Chat trực tiếp với chuyên gia',
     'contact.chatDesc': 'Nhận tư vấn miễn phí và báo giá chi tiết trong vòng 30 phút qua Zalo Official Account',
@@ -217,7 +217,7 @@ const translations = {
     
     // Contact Benefits
     'contact.badge': 'Contact Now',
-    'contact.title': 'Ready to Start?',
+    'contact.readyTitle': 'Ready to Start?',
     'contact.subtitle': 'Let Trinity help you transform digitally and optimize your business',
     'contact.chatTitle': 'Chat directly with experts',
     'contact.chatDesc': 'Get free consultation and detailed quotes within 30 minutes via Zalo Official Account',
