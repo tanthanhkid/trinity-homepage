@@ -20,7 +20,6 @@ const translations = {
     'nav.about': 'Về chúng tôi',
     'nav.testimonials': 'Đánh giá',
     'nav.contact': 'Liên hệ',
-    'nav.blog': 'Blog',
     'nav.contactDemo': 'Liên hệ Demo',
     
     // Hero Section
@@ -139,7 +138,6 @@ const translations = {
     'nav.about': 'About Us',
     'nav.testimonials': 'Testimonials',
     'nav.contact': 'Contact',
-    'nav.blog': 'Blog',
     'nav.contactDemo': 'Contact Demo',
     
     // Hero Section
